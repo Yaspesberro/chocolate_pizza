@@ -1,0 +1,66 @@
+*{
+    margin: 0px auto;
+}
+body{
+    width:960px;
+}
+header{
+    width:960px;
+}
+header img{
+    margin-top: 15px;
+    margin-left:30px;
+    
+}
+header ul{
+    display:inline-block;
+}
+#media img{
+    margin: 0;
+}
+#media{
+    margin-left:250px;
+}
+#subTitle p,h1{
+    margin:0px auto;
+    width:400px;
+}
+#subTitle{
+    width:400px;
+    display:inline-block;
+}
+#print{
+    /* width: 400px; */
+    display:inline-block;
+    float:right;
+    margin-top:15px;
+}
+#print p{
+    display:inline-block;
+}
+#topBlock{
+    display:inline-block;
+    width:960px;
+}
+main img{
+    width:960px;
+}
+main p{
+    text-indent: 20px;
+}
+#recipe{
+    background-image: url("img/list-bg.png");
+}
+#recipe ul{
+    display:inline-block;
+}
+#about-me, button{
+    display:inline-block;
+}
+button{
+    padding:15px;
+    margin-bottom: 25px;
+}
+footer{
+    text-align:center;
+}
