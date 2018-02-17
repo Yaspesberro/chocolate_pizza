@@ -1,0 +1,97 @@
+*{
+    margin: 0px auto;
+}
+p{
+    font-family: serif;
+    font-size: 18px; 
+}
+body{
+    width:960px;
+}
+header{
+    width:960px;
+}
+header img{
+    margin-top: 15px;
+    
+    
+}
+header ul{
+    display:inline-block;
+}
+#media img{
+    margin: 0;
+}
+#media{
+    float:right;
+    margin-top: 35px;
+}
+hr{
+    margin-top:30px;
+    border-style: solid;
+    border-width: 5px;
+}
+#subTitle p,h1{
+    margin:0px auto;
+    width:400px;
+}
+#subTitle{
+    width:400px;
+    display:inline-block;
+    margin-top: 40px;
+}
+#print{
+    /* width: 400px; */
+    display:inline-block;
+    float:right;
+    margin-top:80px;
+}
+#print p{
+    display:inline-block;
+}
+#topBlock{
+    display:inline-block;
+    width:960px;
+}
+main img{
+    width:960px;
+    margin-top: 15px;
+}
+main p{
+    text-indent: 20px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+#recipe{
+    height: 300px;
+    background-image: url("img/list-bg.png");
+}
+#recipe ul{
+    display:inline-block;
+    font-size: 20px;
+    margin-top:50px;
+    margin-left:35px;
+    margin-right:55px;
+    list-style-type: none;
+}
+#recipe li{
+    padding:5px;
+}
+#about-me, button{
+    display:inline-block;
+    margin-left: 20px;
+}
+button{
+    padding:15px;
+    margin-bottom: 25px;
+}
+footer{
+    text-align:center;
+}
+footer img{
+    margin-bottom:20px;
+}
+
+#bottom-block{
+    margin-top:25px;
+}
